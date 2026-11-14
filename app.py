@@ -242,7 +242,7 @@ elif page == "Message Scanner":
             })
 
             st.info(
-                "Experimental model trained on only 10 sample messages. "
+                "Experimental educational model trained on 100 labelled sample messages. "
                 "Predictions are not reliable security assessments."
             )
 
